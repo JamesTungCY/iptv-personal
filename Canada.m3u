@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CBC News Explore" tvg-name="CBC News Explore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-news-network-ca.png" group-title="Canadian News",CBC News Explore
+https://z88.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
+#EXTINK:-1 tvg-id="CPAC" tvg-name="CPAC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cpac-ca.png" group-title="Canadian News",CPAC
+https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
