@@ -1,5 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CBC News Explore" tvg-name="CBC News Explore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-news-network-ca.png" group-title="Canadian News",CBC News Explore
+#EXTINF:-1 tvg-id="CBC News Networl" tvg-name="CBC News Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-news-network-ca.png" group-title="CBC",CBC News Network
 https://z88.ubtvfans.com/live/rx4/1248/05a4509c5daf39f946dc2a3796f9aab1/index.m3u8
-#EXTINF:-1 tvg-id="CPAC" tvg-name="CPAC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cpac-ca.png" group-title="Canadian News",CPAC
+#EXTINF:-1 tvg-id="CPAC" tvg-name="CPAC" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cpac-ca.png" group-title="Canada",CPAC
 https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CBC Comedy" tvg-name="CBC Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cpac-ca.png" group-title="CBC",CBC Comedy
+https://webtelly-streams.akamaized.net/prod-cbc-comedy-rtp/hls/master.m3u8
+#EXTINF:-1 tvg-id="CTV" tvg-name="CTV" tvg-logo="chttps://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-ca.png" group-title="CTV",CTV
+https://z88.ubtvfans.com/live/rx3/1253/0250d97a890ffad686a524f3be9cede4/index.m3u8
+#EXTINF:-1 tvg-id="CTV Comedy" tvg-name="CTV Comedy" tvg-logo="chttps://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-ca.png" group-title="CTV",CTV Comedy
+https://z88.ubtvfans.com/live/rx3/1267/347206b61c65768e3ed6755015ab5a1e/index.m3u8
+#EXTINF:-1 tvg-id="CTV2" tvg-name="CTV2" tvg-logo="chttps://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-ca.png" group-title="CTV",CTV2
+https://z88.ubtvfans.com/live/rx3/1257/7cd75b2af7e124f3f10b72776491f6a4/index.m3u8
+#EXTINF:-1 tvg-id="CTV Sci-Fi" tvg-name="CTV Comedy" tvg-logo="chttps://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-ca.png" group-title="CTV",CTV Sci-Fi
+https://z88.ubtvfans.com/live/rx4/1268/98fc64581bcb6041658ba1954f858c66/index.m3u8
+#EXTINF:-1 tvg-id="OMNI2" tvg-name="OMNI2" tvg-logo="chttps://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-ca.png" group-title="OMNI",OMNI2
+https://z88.ubtvfans.com/live/rx3/1259/35f103615bee5974cd9202f5e54f0196/index.m3u8
